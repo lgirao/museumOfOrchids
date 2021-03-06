@@ -1,11 +1,11 @@
 body {
-    background: #FCE6B9;
+    background: #FDE8C4;
     font-family: "Nunito", sans-serif;
 }
 
 .blurb h2 {
-    color: #ea1c2c;
-    font-weight: 100;
+    color: #950E19;
+    font-weight: 400;
     font-size: 2.5rem;
 }
 
@@ -22,23 +22,24 @@ body {
 
 #mainNavbar {
     font-size: 1.5rem;
-    font-weight: 100;
+    font-weight: 400;
 }
 
 #mainNavbar .nav-link {
-    color: white;
+    color: #2C5516;
+    font-weight: bold;
 }
 
 #mainNavbar .nav-link:hover {
-    color: #ea1c2c;
+    color: #950E19;
 }
 
 #mainNavbar .navbar-brand {
-    color: #ea1c2c;
+    color: #950E19;
 }
 
 #headingGroup span {
-    color: #ea1c2c;
+    color: #950E19;
 }
 
 #headingGroup h1 {
